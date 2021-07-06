@@ -1,4 +1,4 @@
 #!/usr/bin/python
 print("hello")
-aa
-aa
+print("hello")
+print("123456")
